@@ -24,3 +24,6 @@ int main(void)
 	return 0;	
 }
 ```
+
+주의 사항!!
+버
