@@ -18,7 +18,7 @@ ___
 
 ## 논리 연산자 사용 예제 ##
 
-``` run-c
+```c
 #include <stdio.h>
 
 int main(void)
