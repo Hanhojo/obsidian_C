@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문.md",
+                "file": "반복문/반복문.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문.md",
+                "file": "반복문/반복문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문.md",
+                "file": "반복문/반복문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문.md"
+                "file": "반복문/반복문.md"
               }
             }
           }
@@ -159,10 +159,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5c0f04e7f554e4a2",
+  "active": "2ae6aa1af836b92c",
   "lastOpenFiles": [
     "제어문/if else.md",
-    "반복문.md",
+    "반복문/반복문.md",
     "반복문",
     "무제 파일.canvas",
     "제어문/switch.md",
