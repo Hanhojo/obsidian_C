@@ -1,11 +1,6 @@
 {
 	"nodes":[
-		{"id":"5846e33e76c45682","x":-654,"y":-164,"width":250,"height":60,"type":"text","text":""},
-		{"id":"667f8288ea285aa0","x":-460,"y":-360,"width":250,"height":60,"type":"text","text":"반복문"},
-		{"id":"82cd609cc049583d","x":-160,"y":-164,"width":250,"height":60,"type":"text","text":"for문"}
+		{"id":"667f8288ea285aa0","type":"text","text":"","x":-460,"y":-760,"width":250,"height":60}
 	],
-	"edges":[
-		{"id":"0a36a85bdef9c6ec","fromNode":"667f8288ea285aa0","fromSide":"bottom","toNode":"82cd609cc049583d","toSide":"top"},
-		{"id":"5d66d823c246f2ed","fromNode":"667f8288ea285aa0","fromSide":"bottom","toNode":"5846e33e76c45682","toSide":"top"}
-	]
+	"edges":[]
 }
