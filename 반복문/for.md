@@ -33,5 +33,10 @@ int main(void)
 
 ## 입력된 정수들의 합계 구하기 ##
 ```c
-int main voi
+int main(void)
+{
+	int num = 0;
+	int sum = 0; // sum에 합계를 구해야 하므로 0으로 초기화한다. //
+	int i; // 루프 
+}
 ```
