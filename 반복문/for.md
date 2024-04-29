@@ -17,6 +17,11 @@ for (i = 0; i < 10; i++)
 
 ## for의 사용 예 ##
 ```c
-
-int ma
+int main(void)
+{
+	int i;
+	for (i = 0; i < 10; i++)
+		printf("%d ", i);
+		
+}
 ```
