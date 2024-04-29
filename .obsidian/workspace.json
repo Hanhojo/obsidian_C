@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/반복문.md",
+                "file": "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/반복문.md",
+                "file": "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/반복문.md",
+                "file": "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/반복문.md"
+                "file": "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "5c0f04e7f554e4a2",
   "lastOpenFiles": [
-    "제어문/if else.md",
+    "연산자의 기본 개념/수식.md",
+    "연산자의 기본 개념/연산자와 피연산자.md",
+    "상수/상수(constant).md",
+    "변수/변수(Variable).md",
     "반복문/반복문.md",
+    "제어문/if else.md",
     "반복문",
     "무제 파일.canvas",
     "제어문/switch.md",
@@ -177,7 +181,6 @@
     "변수/변수의 특징/변수(식별자)의 선언  규칙.md",
     "음의 정수 표현/1의 보수.md",
     "연산자의 기본 개념/이항 연산자/이항 연산자(binary operator).md",
-    "연산자의 기본 개념/연산자와 피연산자.md",
     "연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자/암시적인 형 변환.md",
@@ -186,9 +189,6 @@
     "C언어와 프로그래밍 개요/C 프로그램의 기본/C 프로그램의 구성 요소.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/함수.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/출력.md",
-    "C언어와 프로그래밍 개요/C 프로그램의 기본/진입점 함수.md",
-    "C언어와 프로그래밍 개요/C 프로그램 개발/C 프로그램 개발 과정.md",
-    "C언어와 프로그래밍 개요/C 프로그램 개발/전처리(Preprocessing).md",
     "제어문",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
     "연산자의 기본 개념/그 밖의 연산자",
