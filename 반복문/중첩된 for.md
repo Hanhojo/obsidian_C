@@ -9,6 +9,9 @@ int main(void)
 	char ch;
 	int i, j;
 
-	printf("직사각형)
+	printf("직사각형의 폭과 높이? ");
+	scanf("%d %d", &width, &height);
+	printf("직사각형을 그릴 문자? ")
+	
 }
 ```
