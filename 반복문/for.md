@@ -37,6 +37,11 @@ int main(void)
 {
 	int num = 0;
 	int sum = 0; // sum에 합계를 구해야 하므로 0으로 초기화한다. //
-	int i; // 루프 
+	int i; // 루프 제어 변수 
+
+	printf("정수 5개를 입력하세요: ");
+	for (i = 0; i < 5; i++)
+	{
+		scanf}
 }
 ```
