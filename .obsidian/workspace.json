@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "반복문/반복문.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2ae6aa1af836b92c",
+  "active": "5c0f04e7f554e4a2",
   "lastOpenFiles": [
     "제어문/if else.md",
     "반복문/반복문.md",
