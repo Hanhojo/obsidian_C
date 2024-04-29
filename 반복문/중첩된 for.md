@@ -12,7 +12,7 @@ int main(void)
 	printf("직사각형의 폭과 높이? ");
 	scanf("%d %d", &width, &height);
 	printf("직사각형을 그릴 문자? ");
-	scanf(" %c", &ch);
+	scanf(" %c", &ch); // 
 
 	for ( i = 0; i < height; i++)
 	{
