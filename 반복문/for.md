@@ -42,6 +42,11 @@ int main(void)
 	printf("정수 5개를 입력하세요: ");
 	for (i = 0; i < 5; i++)
 	{
-		scanf}
+		scanf("%d", &num);
+		sum += num;
+	}
+	printf("합계: %d\n", sum);
+
+	return 0;
 }
 ```
