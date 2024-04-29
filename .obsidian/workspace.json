@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/for.md",
+                "file": "반복문/for의 여러 가지 변형.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,9 +118,9 @@
   },
   "active": "c98f7c0b9a1daafc",
   "lastOpenFiles": [
-    "반복문/반복문.md",
-    "반복문/for의 여러 가지 변형.md",
     "반복문/for.md",
+    "반복문/for의 여러 가지 변형.md",
+    "반복문/반복문.md",
     "제어문/if else.md",
     "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
     "연산자의 기본 개념/수식.md",
