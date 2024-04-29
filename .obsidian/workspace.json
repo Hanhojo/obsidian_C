@@ -16,7 +16,7 @@
                 "file": "무제 파일.canvas",
                 "viewState": {
                   "x": -335,
-                  "y": -330,
+                  "y": -730,
                   "zoom": 0
                 }
               }
@@ -151,9 +151,9 @@
   },
   "active": "54dc56f7163f08ed",
   "lastOpenFiles": [
+    "제어문/if else.md",
     "무제 파일.canvas",
     "제어문/switch.md",
-    "제어문/if else.md",
     "제어문/if.md",
     "제어문/else if.md",
     "제어문/중첩된 if.md",
