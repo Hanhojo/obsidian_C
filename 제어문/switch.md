@@ -31,4 +31,4 @@ case 1:
 	1. break를 생략시 끝을 만날 때까지 나오는 모든 문장들을 수행한다.
 2. ***switch문에서 default는 생략할 수 있다.***
 	1. switch문에 일치하는 case가 없고 default도 없으면 아무것도 수행하지 않고 switch문을 빠져나간다.
-	2. default에도 break 써주는 것이 좋다.
+	2. default에도 break를 써주는 것이 좋다.
