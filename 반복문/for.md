@@ -20,8 +20,10 @@ for (i = 0; i < 10; i++)
 int main(void)
 {
 	int i;
-	for (i = 0; i < 10; i++)
-		printf("%d ", i);
-		
+	for (i = 0; i < 10; i++) // i가 10이 되면 루프 탈출
+		printf("%d ", i); // 반복할 문장
+
+	return 0;
 }
+// 0 1 2 3 4 5 6 7 8 9 //
 ```
