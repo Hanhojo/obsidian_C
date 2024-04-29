@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54dc56f7163f08ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "제어문/if else.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5c0f04e7f554e4a2",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/for.md",
+                "file": "제어문/if else.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/for.md",
+                "file": "제어문/if else.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/for.md"
+                "file": "제어문/if else.md"
+              }
+            }
+          },
+          {
+            "id": "54dc56f7163f08ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제어문/if else.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 802.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +159,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5c0f04e7f554e4a2",
+  "active": "54dc56f7163f08ed",
   "lastOpenFiles": [
-    "반복문/반복문.md",
     "반복문/for.md",
+    "반복문/반복문.md",
     "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
     "연산자의 기본 개념/수식.md",
     "연산자의 기본 개념/연산자와 피연산자.md",
