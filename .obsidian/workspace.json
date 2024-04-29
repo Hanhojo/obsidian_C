@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "제어문/else if.md",
+                "file": "제어문/switch.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "제어문/else if.md",
+                "file": "제어문/switch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "제어문/else if.md",
+                "file": "제어문/switch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "제어문/else if.md"
+                "file": "제어문/switch.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "ee551d44d171121a",
   "lastOpenFiles": [
+    "제어문/if else.md",
+    "제어문/if.md",
+    "제어문/else if.md",
     "제어문/중첩된 if.md",
     "제어문/조건문.md",
     "제어문/제어문(control statement).md",
-    "제어문/else if.md",
-    "제어문/if.md",
-    "제어문/if else.md",
     "제어문/switch.md",
     "연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
     "변수/변수의 특징/변수의 초기화.md",
