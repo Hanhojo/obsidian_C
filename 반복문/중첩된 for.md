@@ -4,6 +4,11 @@ ____
 ## 입력된 문자로 직사각형 그리기 ##
 ```c
 int main(void)
+{
+	int width, height;
+	char ch;
+	int i, j;
 
-int 
+	printf("직사각형)
+}
 ```
