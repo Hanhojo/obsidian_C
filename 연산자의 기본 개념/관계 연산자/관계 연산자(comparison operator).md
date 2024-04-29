@@ -27,7 +27,7 @@ if (items < 0) // 수식의 값이 참이면 다음 문장을 수행한다.
 - =는 대입 연산자 이므로 실수로 == 대신 =를 사용해도 컴파일 에러가 발생하지 않는다.
 - 실수를 비교할 때는 오차를 고려해야 한다.
 - ==0이 아닌 값은 참으로 간주한다.==
-- ==( ) -> [[단항 연산자(unary operator)]] ->[[산술 연산자(arithmetic operator)]] -> [[관계 연산자(comparison operator)]] ->[[논리 연산자(logical operator)]] ->[[대입 연산자(assignment operator)]]순으로 계산을 한다.==
+- ( ) -> [[단항 연산자(unary operator)]] ->[[산술 연산자(arithmetic operator)]] -> [[관계 연산자(comparison operator)]] ->[[논리 연산자(logical operator)]] ->[[대입 연산자(assignment operator)]]순으로 계산을 한다.
 ### 컴파일 에러 발생 안하는 예제 ###
 if(num = 1)은 num과 1과 같은지 비교하는 것이 아니라 num에 1을 대입하고 연산의 결과가 1이 되므로 if(1)로 처리된다. = 항상 True이다.
 ```c
