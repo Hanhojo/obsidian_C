@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/반복문.md",
+                "file": "반복문/for.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/반복문.md",
+                "file": "반복문/for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/반복문.md",
+                "file": "반복문/for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/반복문.md"
+                "file": "반복문/for.md"
               }
             }
           }
@@ -161,12 +161,13 @@
   },
   "active": "5c0f04e7f554e4a2",
   "lastOpenFiles": [
+    "반복문/반복문.md",
+    "반복문/for.md",
     "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
     "연산자의 기본 개념/수식.md",
     "연산자의 기본 개념/연산자와 피연산자.md",
     "상수/상수(constant).md",
     "변수/변수(Variable).md",
-    "반복문/반복문.md",
     "제어문/if else.md",
     "반복문",
     "무제 파일.canvas",
@@ -188,7 +189,6 @@
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/main함수.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/C 프로그램의 구성 요소.md",
-    "C언어와 프로그래밍 개요/C 프로그램의 기본/함수.md",
     "제어문",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
     "연산자의 기본 개념/그 밖의 연산자",
