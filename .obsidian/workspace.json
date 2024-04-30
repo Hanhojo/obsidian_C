@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 695.5
+    "width": 610.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -120,7 +120,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5c0f04e7f554e4a2",
+  "active": "2ae6aa1af836b92c",
   "lastOpenFiles": [
     "반복문/중첩된 for.md",
     "반복문/for.md",
