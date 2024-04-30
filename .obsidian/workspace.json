@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200.5
   },
   "right": {
     "id": "cd7200f697e9023a",
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 754.5
+    "width": 695.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -116,10 +116,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c98f7c0b9a1daafc",
+  "active": "5c0f04e7f554e4a2",
   "lastOpenFiles": [
-    "반복문/for.md",
     "반복문/중첩된 for.md",
+    "반복문/for.md",
     "반복문/for의 여러 가지 변형.md",
     "반복문/반복문.md",
     "제어문/if else.md",
