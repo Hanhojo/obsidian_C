@@ -11,8 +11,12 @@
             "id": "cc70e70ab431ee6e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "반복문/for의 여러 가지 변형.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "반복문/for의 여러 가지 변형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "반복문/for의 여러 가지 변형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "반복문/for의 여러 가지 변형.md"
+              }
             }
           }
         ],
@@ -153,6 +161,7 @@
   },
   "active": "cc70e70ab431ee6e",
   "lastOpenFiles": [
+    "제어문/switch.md",
     "반복문/중첩된 for.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
     "반복문/for.md",
@@ -166,7 +175,6 @@
     "변수/변수(Variable).md",
     "반복문",
     "무제 파일.canvas",
-    "제어문/switch.md",
     "제어문/if.md",
     "제어문/else if.md",
     "제어문/중첩된 if.md",
