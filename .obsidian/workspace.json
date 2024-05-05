@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ac7d1b1cc5f33f",
+        "id": "677f9a65ef904b0b",
         "type": "tabs",
         "children": [
           {
-            "id": "cc70e70ab431ee6e",
+            "id": "a9c40d26dd422e30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "반복문/반복문.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/반복문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/반복문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "반복문/반복문.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,14 +152,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cc70e70ab431ee6e",
+  "active": "a9c40d26dd422e30",
   "lastOpenFiles": [
+    "반복문/반복문.md",
     "반복문/for의 여러 가지 변형.md",
     "반복문/for.md",
     "제어문/switch.md",
     "반복문/중첩된 for.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
-    "반복문/반복문.md",
     "제어문/if else.md",
     "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
     "연산자의 기본 개념/수식.md",
