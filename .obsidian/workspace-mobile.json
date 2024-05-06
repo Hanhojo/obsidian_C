@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/for.md",
-                "mode": "source",
+                "file": "반복문/for의 여러 가지 변형.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "반복문/for.md",
+            "file": "반복문/for의 여러 가지 변형.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "반복문/for.md",
+            "file": "반복문/for의 여러 가지 변형.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "반복문/for.md"
+            "file": "반복문/for의 여러 가지 변형.md"
           }
         }
       }
@@ -134,9 +134,9 @@
   },
   "active": "85d0f75ba05358ba",
   "lastOpenFiles": [
-    "반복문/for의 여러 가지 변형.md",
-    "반복문/for.md",
     "반복문/중첩된 for.md",
+    "반복문/for.md",
+    "반복문/for의 여러 가지 변형.md",
     "연산자의 기본 개념/수식.md",
     "C 데이터형/정수형/부호의 확장.md",
     "C 데이터형/정수형/정수의 2진 표현.md",
