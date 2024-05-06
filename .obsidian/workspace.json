@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/for의 여러 가지 변형.md",
+                "file": "반복문/중첩된 for.md",
                 "mode": "preview",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/for의 여러 가지 변형.md",
+                "file": "반복문/중첩된 for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/for의 여러 가지 변형.md",
+                "file": "반복문/중첩된 for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/for의 여러 가지 변형.md"
+                "file": "반복문/중첩된 for.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "a9c40d26dd422e30",
   "lastOpenFiles": [
+    "반복문/for.md",
+    "반복문/for의 여러 가지 변형.md",
     "반복문/중첩된 for.md",
     "반복문/반복문.md",
-    "반복문/for의 여러 가지 변형.md",
-    "반복문/for.md",
     "제어문/switch.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
     "제어문/if else.md",
