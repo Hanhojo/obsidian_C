@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/for의 여러 가지 변형.md",
+                "file": "반복문/반복문의 종류/for.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "반복문/for의 여러 가지 변형.md",
+            "file": "반복문/반복문의 종류/for.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "반복문/for의 여러 가지 변형.md",
+            "file": "반복문/반복문의 종류/for.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "반복문/for의 여러 가지 변형.md"
+            "file": "반복문/반복문의 종류/for.md"
           }
         }
       }
@@ -134,9 +134,13 @@
   },
   "active": "85d0f75ba05358ba",
   "lastOpenFiles": [
-    "반복문/중첩된 for.md",
-    "반복문/for.md",
+    "반복문/반복문.md",
+    "반복문/반복문의 종류/for.md",
     "반복문/for의 여러 가지 변형.md",
+    "반복문/중첩된 for.md",
+    "반복문/반복문의 종류/while.md",
+    "반복문/반복문의 종류/do while.md",
+    "반복문/for.md",
     "연산자의 기본 개념/수식.md",
     "C 데이터형/정수형/부호의 확장.md",
     "C 데이터형/정수형/정수의 2진 표현.md",
@@ -146,7 +150,6 @@
     "C언어와 프로그래밍 개요/C 프로그램의 기본/C 프로그램의 구성 요소.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/함수.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/출력.md",
-    "반복문/반복문.md",
     "연산자의 기본 개념/연산자와 피연산자.md",
     "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
     "연산자의 기본 개념/단항 연산자/단항 연산자(unary operator).md",
@@ -156,9 +159,6 @@
     "연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
     "연산자의 기본 개념/대입 연산자/복합 대입 연산자.md",
     "연산자의 기본 개념/산술 연산자/산술 연산자(arithmetic operator).md",
-    "연산자의 기본 개념/대입 연산자/대입 연산자(assignment operator).md",
-    "연산자의 기본 개념/비트 연산자/비트 논리 연산자(bitwise logic operator).md",
-    "연산자의 기본 개념/비트 연산자/비트 연산자(bitwise operator).md",
-    "연산자의 기본 개념/이항 연산자/이항 연산자(binary operator).md"
+    "연산자의 기본 개념/대입 연산자/대입 연산자(assignment operator).md"
   ]
 }

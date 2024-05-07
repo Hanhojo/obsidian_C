@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/반복문의 종류/while.md",
+                "file": "반복문/반복문의 종류/for.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/반복문의 종류/while.md",
+                "file": "반복문/반복문의 종류/for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/반복문의 종류/while.md",
+                "file": "반복문/반복문의 종류/for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/반복문의 종류/while.md"
+                "file": "반복문/반복문의 종류/for.md"
               }
             }
           }
@@ -160,14 +160,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2ae6aa1af836b92c",
+  "active": "78f9e0fd3292bb41",
   "lastOpenFiles": [
+    "반복문/for의 여러 가지 변형.md",
+    "반복문/중첩된 for.md",
     "반복문/반복문.md",
+    "반복문/반복문의 종류/for.md",
+    "반복문/반복문의 종류/do while.md",
     "반복문/반복문의 종류/while.md",
     "반복문/반복문의 종류",
-    "반복문/중첩된 for.md",
-    "반복문/for의 여러 가지 변형.md",
-    "반복문/반복문의 종류/for.md",
     "제어문/switch.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
     "제어문/if else.md",
@@ -190,7 +191,6 @@
     "음의 정수 표현/1의 보수.md",
     "연산자의 기본 개념/이항 연산자/이항 연산자(binary operator).md",
     "연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
-    "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자/암시적인 형 변환.md",
     "제어문",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
     "연산자의 기본 개념/그 밖의 연산자",
