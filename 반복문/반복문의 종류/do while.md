@@ -2,3 +2,9 @@
 ___
 
 ## do while의 기본 ##
+```c
+i = 0;
+do
+	printf("%d ", i++);
+while (i < 10);
+```
