@@ -10,4 +10,11 @@ do
 while (i < 10); // 조건식
 ```
 
-## do while
+## do while의 사용 예 ##
+```c
+# include <stdio.h>
+int main(void)
+{
+	o
+}
+```
