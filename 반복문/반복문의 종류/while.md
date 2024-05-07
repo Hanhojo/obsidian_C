@@ -10,4 +10,13 @@ while (i < 10);
 	printf("%d ". i ++);
 ```
 
-## while의 사용
+## while의 사용 예 ##
+```c
+#include <stdio.h>
+int main(void)
+{
+	int i = 0;
+	while (i < 10)
+		printf
+}
+```
