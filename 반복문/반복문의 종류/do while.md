@@ -15,6 +15,10 @@ while (i < 10); // 조건식
 # include <stdio.h>
 int main(void)
 {
-	o
+	int i = 0;
+	do
+		printf("%d ", i++);
+	while (i < 10);
+	printf("\n")
 }
 ```
