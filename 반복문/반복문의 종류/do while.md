@@ -2,9 +2,10 @@
 ___
 
 ## do while의 기본 ##
+
 ```c
 i = 0;
 do
-	printf("%d ", i++);
-while (i < 10);
+	printf("%d ", i++); // 반복할 문장
+while (i < 10); // 조건식
 ```
