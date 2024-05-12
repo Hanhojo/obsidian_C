@@ -30,7 +30,7 @@ i = 10;
 do
 {
 	if (i % 3 == 0)
-	continue;
+	continue; // i > 0으로 이동한다
 	printf("%d ", i);
 	i--;
 } while (i > 0);
