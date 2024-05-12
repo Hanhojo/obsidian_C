@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/분기문/break.md",
-                "mode": "preview",
+                "file": "continue.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/분기문/break.md",
+                "file": "continue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/분기문/break.md",
+                "file": "continue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/분기문/break.md"
+                "file": "continue.md"
               }
             }
           }
@@ -188,6 +188,7 @@
   "active": "ba82abcc60d41f3f",
   "lastOpenFiles": [
     "반복문/분기문/분기문.md",
+    "continue.md",
     "반복문/분기문/break.md",
     "반복문/무한 루프.md",
     "반복문/분기문",
@@ -217,7 +218,6 @@
     "연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
     "변수/변수의 특징/변수의 초기화.md",
     "변수/변수의 특징/변수의 사용.md",
-    "변수/변수의 특징/변수(식별자)의 선언  규칙.md",
     "제어문",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
     "연산자의 기본 개념/그 밖의 연산자",
