@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "반복문/분기문/break.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -185,7 +185,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2ae6aa1af836b92c",
+  "active": "ba82abcc60d41f3f",
   "lastOpenFiles": [
     "반복문/분기문/분기문.md",
     "반복문/분기문/break.md",
