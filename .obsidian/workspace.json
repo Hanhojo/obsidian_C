@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/반복문의 종류/while.md",
+                "file": "반복문/반복문의 종류/do while.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6db0c3aa4abd1e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무한 루프.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/반복문의 종류/while.md",
+                "file": "무한 루프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/반복문의 종류/while.md",
+                "file": "무한 루프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/반복문의 종류/while.md"
+                "file": "무한 루프.md"
               }
             }
           }
@@ -160,14 +173,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "78f9e0fd3292bb41",
+  "active": "6db0c3aa4abd1e3f",
   "lastOpenFiles": [
     "반복문/반복문의 종류/for.md",
-    "반복문/반복문의 종류/while.md",
+    "반복문/반복문.md",
+    "무한 루프.md",
     "반복문/반복문의 종류/do while.md",
+    "반복문/무한루프",
+    "반복문/반복문의 종류/while.md",
     "반복문/중첩된 for.md",
     "반복문/for의 여러 가지 변형.md",
-    "반복문/반복문.md",
     "반복문/반복문의 종류",
     "제어문/switch.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
@@ -190,7 +205,6 @@
     "변수/변수의 특징/변수(식별자)의 선언  규칙.md",
     "음의 정수 표현/1의 보수.md",
     "연산자의 기본 개념/이항 연산자/이항 연산자(binary operator).md",
-    "연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
     "제어문",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
     "연산자의 기본 개념/그 밖의 연산자",
@@ -199,7 +213,6 @@
     "연산자의 기본 개념/비트 연산자",
     "무제 파일 1.canvas",
     "연산자의 기본 개념/논리 연산자",
-    "연산자의 기본 개념/관계 연산자",
     "Picture Source/Compilation-Process-in-C.png",
     "IMG_2235.jpg"
   ]
