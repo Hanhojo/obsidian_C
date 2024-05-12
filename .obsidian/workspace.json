@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무한 루프.md",
+                "file": "반복문/무한 루프.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무한 루프.md",
+                "file": "반복문/무한 루프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무한 루프.md",
+                "file": "반복문/무한 루프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무한 루프.md"
+                "file": "반복문/무한 루프.md"
               }
             }
           }
@@ -175,14 +175,14 @@
   },
   "active": "6db0c3aa4abd1e3f",
   "lastOpenFiles": [
-    "반복문/반복문의 종류/for.md",
+    "반복문/for의 여러 가지 변형.md",
+    "반복문/중첩된 for.md",
     "반복문/반복문.md",
-    "무한 루프.md",
+    "반복문/무한 루프.md",
+    "반복문/반복문의 종류/for.md",
     "반복문/반복문의 종류/do while.md",
     "반복문/무한루프",
     "반복문/반복문의 종류/while.md",
-    "반복문/중첩된 for.md",
-    "반복문/for의 여러 가지 변형.md",
     "반복문/반복문의 종류",
     "제어문/switch.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
