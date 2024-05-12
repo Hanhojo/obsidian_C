@@ -10,6 +10,8 @@ while (i < 10);
 	printf("%d ". i ++);
 ```
 
+## while의 특징 ##
+
 ## while의 사용 예 ##
 ```c
 #include <stdio.h>
