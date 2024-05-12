@@ -12,6 +12,9 @@ while (i < 10);
 
 ## while의 특징 ##
 
+1. while문은 조건식과 반복할 문장으로 구성되므로 사용 형식이 for문에 비해 간단하다.
+2. 
+
 ## while의 사용 예 ##
 ```c
 #include <stdio.h>
