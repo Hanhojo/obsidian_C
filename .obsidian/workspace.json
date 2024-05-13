@@ -26,25 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "반복문/무한 루프.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba82abcc60d41f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "반복문/반복문의 종류/do while.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/반복문의 종류/do while.md",
+                "file": "반복문/무한 루프.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/반복문의 종류/do while.md",
+                "file": "반복문/무한 루프.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/반복문의 종류/do while.md"
+                "file": "반복문/무한 루프.md"
               }
             }
           }
@@ -185,20 +173,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ba82abcc60d41f3f",
+  "active": "6db0c3aa4abd1e3f",
   "lastOpenFiles": [
-    "return.md",
-    "반복문/분기문/분기문.md",
-    "반복문/분기문/goto.md",
-    "반복문/분기문/continue.md",
-    "반복문/분기문/break.md",
+    "C 프로그램의 구성 요소/scanf 형식 문자열/%lf.md",
+    "제어문/else if.md",
+    "연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
+    "반복문/반복문.md",
     "반복문/무한 루프.md",
+    "반복문/분기문/분기문.md",
+    "반복문/분기문/break.md",
+    "반복문/분기문/continue.md",
+    "반복문/반복문의 종류/do while.md",
+    "반복문/분기문/return.md",
+    "반복문/분기문/goto.md",
     "반복문/분기문",
     "반복문/for의 여러 가지 변형.md",
     "반복문/중첩된 for.md",
-    "반복문/반복문.md",
     "반복문/반복문의 종류/for.md",
-    "반복문/반복문의 종류/do while.md",
     "반복문/무한루프",
     "반복문/반복문의 종류/while.md",
     "반복문/반복문의 종류",
@@ -213,11 +204,8 @@
     "반복문",
     "무제 파일.canvas",
     "제어문/if.md",
-    "제어문/else if.md",
     "제어문/중첩된 if.md",
     "제어문/조건문.md",
-    "제어문/제어문(control statement).md",
-    "연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
     "제어문",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
     "연산자의 기본 개념/그 밖의 연산자",
