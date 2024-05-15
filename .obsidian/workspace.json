@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/함수의 기본/리턴형.md",
+                "file": "10. 함수/함수의 기본/함수 이름.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/함수의 기본/리턴형.md",
+                "file": "10. 함수/함수의 기본/함수 이름.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/함수의 기본/리턴형.md",
+                "file": "10. 함수/함수의 기본/함수 이름.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/함수의 기본/리턴형.md"
+                "file": "10. 함수/함수의 기본/함수 이름.md"
               }
             }
           }
@@ -185,11 +185,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2ae6aa1af836b92c",
+  "active": "85cbfa54299d51bd",
   "lastOpenFiles": [
     "10. 함수/함수의 기본/함수의 정의 특징.md",
-    "10. 함수/함수의 기본/리턴형.md",
+    "10. 함수/함수의 기본/함수 이름.md",
     "10. 함수/함수의 기본/함수의 기본.md",
+    "10. 함수/함수의 기본/리턴형.md",
     "10. 함수/함수의 종류/함수의 종류.md",
     "10. 함수/함수의 기본",
     "10. 함수/함수의 종류",
@@ -215,7 +216,6 @@
     "7. 연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
     "9.  반복문/반복문.md",
     "9.  반복문/분기문/분기문.md",
-    "9.  반복문/분기문/break.md",
     "9.  반복문/분기문",
     "반복문/무한루프",
     "9.  반복문/반복문의 종류",
