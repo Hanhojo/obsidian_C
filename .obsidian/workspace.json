@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "반복문/중첩된 for.md",
+                "file": "5. 반복문/중첩된 for.md",
                 "mode": "preview",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
+                "file": "7. 연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "반복문/중첩된 for.md",
+                "file": "5. 반복문/중첩된 for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "반복문/중첩된 for.md",
+                "file": "5. 반복문/중첩된 for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "반복문/중첩된 for.md"
+                "file": "5. 반복문/중첩된 for.md"
               }
             }
           }
@@ -160,45 +160,45 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "bd4f4813e77fb2fc",
+  "active": "2ae6aa1af836b92c",
   "lastOpenFiles": [
-    "반복문/for의 여러 가지 변형.md",
-    "반복문/중첩된 for.md",
-    "반복문/반복문의 종류/for.md",
-    "연산자의 기본 개념/연산자와 피연산자.md",
-    "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자.md",
-    "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
-    "연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
-    "반복문/반복문의 종류/do while.md",
-    "연산자의 기본 개념/수식.md",
-    "반복문/무한 루프.md",
-    "C 프로그램의 구성 요소/scanf 형식 문자열/%lf.md",
-    "제어문/else if.md",
-    "연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
-    "반복문/반복문.md",
-    "반복문/분기문/분기문.md",
-    "반복문/분기문/break.md",
-    "반복문/분기문/continue.md",
-    "반복문/분기문/return.md",
-    "반복문/분기문/goto.md",
-    "반복문/분기문",
+    "6. 함수",
+    "5. 반복문/for의 여러 가지 변형.md",
+    "5. 반복문/중첩된 for.md",
+    "5. 반복문/반복문의 종류/for.md",
+    "7. 연산자의 기본 개념/연산자와 피연산자.md",
+    "7. 연산자의 기본 개념/그 밖의 연산자/형 변환 연산자.md",
+    "7. 연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
+    "7. 연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
+    "5. 반복문/반복문의 종류/do while.md",
+    "7. 연산자의 기본 개념/수식.md",
+    "5. 반복문/무한 루프.md",
+    "2. C 프로그램의 구성 요소/scanf 형식 문자열/%lf.md",
+    "8. 제어문/else if.md",
+    "7. 연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
+    "5. 반복문/반복문.md",
+    "5. 반복문/분기문/분기문.md",
+    "5. 반복문/분기문/break.md",
+    "5. 반복문/분기문/continue.md",
+    "5. 반복문/분기문/return.md",
+    "5. 반복문/분기문/goto.md",
+    "5. 반복문/분기문",
     "반복문/무한루프",
-    "반복문/반복문의 종류/while.md",
-    "반복문/반복문의 종류",
-    "제어문/switch.md",
-    "제어문/if else.md",
-    "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
-    "상수/상수(constant).md",
-    "변수/변수(Variable).md",
-    "반복문",
+    "5. 반복문/반복문의 종류/while.md",
+    "5. 반복문/반복문의 종류",
+    "8. 제어문/switch.md",
+    "8. 제어문/if else.md",
+    "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
+    "5. 상수/상수(constant).md",
+    "4. 변수/변수(Variable).md",
+    "5. 반복문",
     "무제 파일.canvas",
-    "제어문/if.md",
-    "제어문",
-    "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
-    "연산자의 기본 개념/그 밖의 연산자",
-    "상수/상수의 종류",
-    "변수/변수의 특징",
-    "연산자의 기본 개념/비트 연산자",
+    "8. 제어문",
+    "7. 연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
+    "7. 연산자의 기본 개념/그 밖의 연산자",
+    "5. 상수/상수의 종류",
+    "4. 변수/변수의 특징",
+    "7. 연산자의 기본 개념/비트 연산자",
     "무제 파일 1.canvas",
     "Picture Source/Compilation-Process-in-C.png",
     "IMG_2235.jpg"
