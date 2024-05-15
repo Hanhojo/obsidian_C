@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.  반복문/중첩된 for.md",
-                "mode": "preview",
+                "file": "10. 함수/함수의 기본/함수의 정의/함수 이름.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/함수의 기본/함수 이름.md",
+                "file": "10. 함수/함수의 기본/함수의 정의/리턴형.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "식별자",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/함수의 기본/함수 이름.md",
+                "file": "10. 함수/함수의 기본/함수의 정의/함수 이름.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/함수의 기본/함수 이름.md",
+                "file": "10. 함수/함수의 기본/함수의 정의/함수 이름.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/함수의 기본/함수 이름.md"
+                "file": "10. 함수/함수의 기본/함수의 정의/함수 이름.md"
               }
             }
           }
@@ -185,13 +184,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "85cbfa54299d51bd",
+  "active": "bd4f4813e77fb2fc",
   "lastOpenFiles": [
+    "10. 함수/함수의 기본/함수의 정의/리턴형.md",
+    "10. 함수/함수의 기본/함수의 정의/매개변수 목록.md",
     "10. 함수/함수의 기본/함수의 정의 특징.md",
-    "10. 함수/함수의 기본/함수 이름.md",
     "10. 함수/함수의 기본/함수의 기본.md",
-    "10. 함수/함수의 기본/리턴형.md",
+    "10. 함수/함수의 기본/함수의 정의",
+    "10. 함수/함수의 기본/함수의 정의/함수 이름.md",
+    "9.  반복문/중첩된 for.md",
     "10. 함수/함수의 종류/함수의 종류.md",
+    "4. 변수/변수의 특징/변수(식별자)의 선언  규칙.md",
     "10. 함수/함수의 기본",
     "10. 함수/함수의 종류",
     "10. 함수/함수의 종류/라이브러리 함수(library function).md",
@@ -200,7 +203,6 @@
     "사용자 정의 함수(user-defined function).md",
     "1. C언어와 프로그래밍 개요/C 프로그램의 기본/main함수.md",
     "10. 함수/진입점 함수(entry point function.md",
-    "9.  반복문/중첩된 for.md",
     "10. 함수",
     "9.  반복문/for의 여러 가지 변형.md",
     "9.  반복문/반복문의 종류/for.md",
@@ -213,9 +215,6 @@
     "9.  반복문/무한 루프.md",
     "2. C 프로그램의 구성 요소/scanf 형식 문자열/%lf.md",
     "8. 제어문/else if.md",
-    "7. 연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
-    "9.  반복문/반복문.md",
-    "9.  반복문/분기문/분기문.md",
     "9.  반복문/분기문",
     "반복문/무한루프",
     "9.  반복문/반복문의 종류",
@@ -223,7 +222,6 @@
     "무제 파일.canvas",
     "8. 제어문",
     "7. 연산자의 기본 개념/그 밖의 연산자/형 변환 연산자",
-    "7. 연산자의 기본 개념/그 밖의 연산자",
     "무제 파일 1.canvas",
     "Picture Source/Compilation-Process-in-C.png",
     "IMG_2235.jpg"
