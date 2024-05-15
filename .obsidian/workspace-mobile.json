@@ -11,12 +11,8 @@
             "id": "85d0f75ba05358ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "연산자의 기본 개념/연산자와 피연산자.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "연산자의 기본 개념/연산자와 피연산자.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "연산자의 기본 개념/연산자와 피연산자.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "연산자의 기본 개념/연산자와 피연산자.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -134,6 +126,9 @@
   },
   "active": "85d0f75ba05358ba",
   "lastOpenFiles": [
+    "1. C언어와 프로그래밍 개요/C 프로그램의 기본/main함수.md",
+    "10. 함수/진입점 함수(entry point function).md",
+    "10. 함수/라이브러리 함수(library function).md",
     "연산자의 기본 개념/수식.md",
     "반복문/분기문/goto.md",
     "반복문/반복문의 종류/do while.md",
@@ -156,9 +151,6 @@
     "연산자의 기본 개념/단항 연산자/단항 연산자(unary operator).md",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자.md",
     "연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
-    "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
-    "연산자의 기본 개념/관계 연산자/관계 연산자(comparison operator).md",
-    "연산자의 기본 개념/대입 연산자/복합 대입 연산자.md",
-    "연산자의 기본 개념/산술 연산자/산술 연산자(arithmetic operator).md"
+    "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md"
   ]
 }
