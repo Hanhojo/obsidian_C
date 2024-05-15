@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "함수의 종류.md",
+                "file": "10. 함수/라이브러리 함수(library function).md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함수의 종류.md",
+                "file": "10. 함수/라이브러리 함수(library function).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함수의 종류.md",
+                "file": "10. 함수/라이브러리 함수(library function).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "함수의 종류.md"
+                "file": "10. 함수/라이브러리 함수(library function).md"
               }
             }
           }
@@ -175,11 +175,11 @@
   },
   "active": "67b773679c5a68c6",
   "lastOpenFiles": [
-    "사용자 정의 함수(user-defined function).md",
     "10. 함수/사용자 정의 함수(user-defined function).md",
-    "함수의 종류.md",
-    "10. 함수/라이브러리 함수(library function).md",
     "10. 함수/진입점 함수(entry point function).md",
+    "10. 함수/라이브러리 함수(library function).md",
+    "함수의 종류.md",
+    "사용자 정의 함수(user-defined function).md",
     "1. C언어와 프로그래밍 개요/C 프로그램의 기본/main함수.md",
     "10. 함수/진입점 함수(entry point function.md",
     "9.  반복문/중첩된 for.md",
