@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3038db3492c19139",
+        "id": "7e8e68acb86801bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6db0c3aa4abd1e3f",
+            "id": "bd4f4813e77fb2fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "연산자의 기본 개념/연산자와 피연산자.md",
-                "mode": "source",
+                "file": "반복문/반복문의 종류/for.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "연산자의 기본 개념/연산자와 피연산자.md",
+                "file": "반복문/반복문의 종류/for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "연산자의 기본 개념/연산자와 피연산자.md",
+                "file": "반복문/반복문의 종류/for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "연산자의 기본 개념/연산자와 피연산자.md"
+                "file": "반복문/반복문의 종류/for.md"
               }
             }
           }
@@ -160,14 +160,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6db0c3aa4abd1e3f",
+  "active": "bd4f4813e77fb2fc",
   "lastOpenFiles": [
+    "연산자의 기본 개념/연산자와 피연산자.md",
     "반복문/중첩된 for.md",
     "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자.md",
     "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
     "연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
     "반복문/반복문의 종류/do while.md",
-    "연산자의 기본 개념/연산자와 피연산자.md",
     "연산자의 기본 개념/수식.md",
     "반복문/반복문의 종류/for.md",
     "반복문/무한 루프.md",
