@@ -11,8 +11,12 @@
             "id": "85d0f75ba05358ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9.  반복문/반복문의 종류/for.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "9.  반복문/반복문의 종류/for.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "9.  반복문/반복문의 종류/for.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "9.  반복문/반복문의 종류/for.md"
+          }
         }
       }
     ],
@@ -126,8 +134,14 @@
   },
   "active": "85d0f75ba05358ba",
   "lastOpenFiles": [
+    "9.  반복문/분기문/break.md",
+    "9.  반복문/분기문/분기문.md",
+    "9.  반복문/분기문/continue.md",
+    "9.  반복문/반복문의 종류/do while.md",
+    "1. C언어와 프로그래밍 개요/C 프로그램의 기본/함수.md",
     "1. C언어와 프로그래밍 개요/C 프로그램의 기본/main함수.md",
     "10. 함수/진입점 함수(entry point function).md",
+    "10. 함수/사용자 정의 함수(user-defined function).md",
     "10. 함수/라이브러리 함수(library function).md",
     "연산자의 기본 개념/수식.md",
     "반복문/분기문/goto.md",
@@ -145,12 +159,6 @@
     "C언어와 프로그래밍 개요/C 프로그램의 기본/main함수.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/C 프로그램의 구성 요소.md",
     "C언어와 프로그래밍 개요/C 프로그램의 기본/함수.md",
-    "C언어와 프로그래밍 개요/C 프로그램의 기본/출력.md",
-    "연산자의 기본 개념/연산자와 피연산자.md",
-    "연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
-    "연산자의 기본 개념/단항 연산자/단항 연산자(unary operator).md",
-    "연산자의 기본 개념/그 밖의 연산자/형 변환 연산자.md",
-    "연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
-    "연산자의 기본 개념/그 밖의 연산자/조건 연산자.md"
+    "C언어와 프로그래밍 개요/C 프로그램의 기본/출력.md"
   ]
 }
