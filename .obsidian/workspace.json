@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리턴값과 매개변수가 있는 함수.md",
+                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
                 "mode": "preview",
                 "source": false
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리턴값과 매개변수가 있는 함수.md",
+                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리턴값과 매개변수가 있는 함수.md",
+                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리턴값과 매개변수가 있는 함수.md"
+                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md"
               }
             }
           }
@@ -233,8 +233,8 @@
   },
   "active": "b888aa72e589c912",
   "lastOpenFiles": [
-    "10. 함수/함수의 기본/함수의 정의/여러가지 함수의 정의.md",
     "리턴값과 매개변수가 있는 함수.md",
+    "10. 함수/함수의 기본/함수의 정의/여러가지 함수의 정의.md",
     "10. 함수/함수의 기본/함수의 정의/함수의 내용.md",
     "리턴값은 없고 매개변수만 있는 함수.md",
     "리턴값과 매개변수가 없는 함수.md",
