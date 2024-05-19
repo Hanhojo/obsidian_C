@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3cb24c1c2ce0cb9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "함수 호출 시 유의사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "함수 호출 시 유의사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "함수 호출 시 유의사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md"
+                "file": "함수 호출 시 유의사항.md"
               }
             }
           }
@@ -160,10 +173,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2ae6aa1af836b92c",
+  "active": "3cb24c1c2ce0cb9b",
   "lastOpenFiles": [
-    "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+    "함수 호출 시 유의사항.md",
+    "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값은 없고 매개변수만 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/함수의 호출.md",
@@ -191,7 +205,6 @@
     "9.  반복문/반복문의 종류/do while.md",
     "10. 함수/함수의 기본/함수의 정의/함수의 정의 특징.md",
     "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
-    "10. 함수/함수의 기본/함수의 정의/함수의 내용.md",
     "10. 함수/함수의 기본/함수의 정의",
     "10. 함수/함수의 기본",
     "10. 함수/함수의 종류",
