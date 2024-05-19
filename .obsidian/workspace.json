@@ -19,21 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b888aa72e589c912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "00750f0f37b3cbea",
@@ -179,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
+                "file": "10. 함수/함수의 기본/함수의 기본.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
+                "file": "10. 함수/함수의 기본/함수의 기본.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md"
+                "file": "10. 함수/함수의 기본/함수의 기본.md"
               }
             }
           }
@@ -231,8 +218,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b888aa72e589c912",
+  "active": "67b773679c5a68c6",
   "lastOpenFiles": [
+    "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
     "리턴값과 매개변수가 있는 함수.md",
     "10. 함수/함수의 기본/함수의 정의/여러가지 함수의 정의.md",
     "10. 함수/함수의 기본/함수의 정의/함수의 내용.md",
@@ -262,7 +250,6 @@
     "7. 연산자의 기본 개념/그 밖의 연산자/형 변환 연산자.md",
     "7. 연산자의 기본 개념/그 밖의 연산자/조건 연산자.md",
     "7. 연산자의 기본 개념/그 밖의 연산자/콤마 연산자.md",
-    "9.  반복문/반복문의 종류/do while.md",
     "9.  반복문/분기문",
     "반복문/무한루프",
     "9.  반복문/반복문의 종류",
