@@ -6,6 +6,7 @@
       {
         "id": "f4e6cc8314c1a00f",
         "type": "tabs",
+        "dimension": 59.53525641025641,
         "children": [
           {
             "id": "85cbfa54299d51bd",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
+                "file": "여러 가지 함수의 정의/리턴값과 매개변수가 있는 함수.md",
                 "mode": "preview",
                 "source": false
               }
@@ -30,12 +31,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c6049ed4fb7ff5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "여러 가지 함수의 정의/리턴값은 없고 매개변수만 있는 함수.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "d4d19662c9e21191",
         "type": "tabs",
+        "dimension": 40.46474358974359,
         "children": [
           {
             "id": "427874a165967bdd",
@@ -44,6 +59,18 @@
               "type": "markdown",
               "state": {
                 "file": "10. 함수/함수의 종류/진입점 함수(entry point function).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9a7a122f8a928c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.  반복문/반복문의 종류/for.md",
                 "mode": "preview",
                 "source": false
               }
@@ -86,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
+                "file": "9.  반복문/반복문의 종류/for.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
+                "file": "9.  반복문/반복문의 종류/for.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md"
+                "file": "9.  반복문/반복문의 종류/for.md"
               }
             }
           }
@@ -227,22 +254,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "85cbfa54299d51bd",
+  "active": "a9a7a122f8a928c8",
   "lastOpenFiles": [
     "여러 가지 함수의 정의/리턴값은 없고 매개변수만 있는 함수.md",
+    "4. 변수/변수의 특징/변수(식별자)의 선언  규칙.md",
+    "Note.md",
     "여러 가지 함수의 정의/리턴값과 매개변수가 있는 함수.md",
     "여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
+    "10. 함수/함수의 종류/사용자 정의 함수(user-defined function).md",
+    "10. 함수/함수의 종류/라이브러리 함수(library function).md",
     "10. 함수/함수의 기본/함수의 정의/함수 이름.md",
     "10. 함수/함수의 종류/진입점 함수(entry point function).md",
-    "10. 함수/함수의 종류/라이브러리 함수(library function).md",
-    "4. 변수/변수의 특징/변수(식별자)의 선언  규칙.md",
     "함수의 선언.md",
     "여러 가지 함수의 정의",
     "10. 함수/함수의 기본/함수의 정의/리턴형.md",
     "10. 함수/함수의 기본/함수의 정의/매개변수 목록.md",
     "10. 함수/함수의 기본/함수의 정의/여러가지 함수의 정의.md",
     "10. 함수/함수의 종류/함수의 종류.md",
-    "10. 함수/함수의 종류/사용자 정의 함수(user-defined function).md",
     "1. C언어와 프로그래밍 개요/C 프로그램의 기본/진입점 함수.md",
     "9.  반복문/반복문의 종류/do while.md",
     "10. 함수/함수의 기본/함수의 정의/함수의 정의 특징.md",
