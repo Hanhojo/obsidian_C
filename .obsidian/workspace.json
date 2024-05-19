@@ -11,8 +11,12 @@
             "id": "fa074a8b159dd1f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md"
+              }
             }
           }
         ],
@@ -152,9 +160,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fa074a8b159dd1f1",
+  "active": "2ae6aa1af836b92c",
   "lastOpenFiles": [
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수의 호출.md",
+    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값은 없고 매개변수만 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/함수의 호출.md",
@@ -184,7 +193,6 @@
     "7. 연산자의 기본 개념/논리 연산자/논리 연산자(logical operator).md",
     "10. 함수/함수의 기본/함수의 정의/함수의 내용.md",
     "10. 함수/함수의 기본/함수의 정의",
-    "9.  반복문/중첩된 for.md",
     "10. 함수/함수의 기본",
     "10. 함수/함수의 종류",
     "10. 함수",
