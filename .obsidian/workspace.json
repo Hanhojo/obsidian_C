@@ -23,12 +23,8 @@
             "id": "3cb24c1c2ce0cb9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "함수 호출 시 유의사항.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -121,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "함수 호출 시 유의사항.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "함수 호출 시 유의사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "함수 호출 시 유의사항.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -175,8 +167,9 @@
   },
   "active": "3cb24c1c2ce0cb9b",
   "lastOpenFiles": [
-    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+    "10. 함수/함수의 기본/함수의 기본.md",
     "함수 호출 시 유의사항.md",
+    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값은 없고 매개변수만 있는 함수의 호출.md",
@@ -185,7 +178,6 @@
     "10. 함수/함수의 기본/함수의 정의/매개변수 목록.md",
     "10. 함수/함수의 기본/함수의 호출",
     "함수의 선언.md",
-    "10. 함수/함수의 기본/함수의 기본.md",
     "10. 함수/함수의 기본/함수의 선언",
     "무제 파일.canvas",
     "Note.md",
