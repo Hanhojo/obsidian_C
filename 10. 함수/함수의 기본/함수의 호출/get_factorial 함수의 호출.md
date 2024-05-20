@@ -5,7 +5,7 @@ int get_factorial(int x, int y) // 유클리드 호제법으로 최대 공약수
 {
 	int r;
 	while( y != 0){
-		r = x % y
+		r = x % y;
 		x = y;
 		y = r;
 	}
