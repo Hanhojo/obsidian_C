@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cb24c1c2ce0cb9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/함수 호출 시 유의사항.md",
-                "mode": "source",
+                "file": "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md"
+                "file": "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md"
               }
             }
           }
@@ -173,11 +160,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2ae6aa1af836b92c",
+  "active": "fa074a8b159dd1f1",
   "lastOpenFiles": [
+    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 기본.md",
     "10. 함수/함수의 기본/함수의 호출/함수 호출 시 유의사항.md",
-    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값은 없고 매개변수만 있는 함수의 호출.md",
