@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "10. 함수/함수의 기본/함수의 선언/함수의 선언.md",
                 "mode": "preview",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "10. 함수/함수의 기본/함수의 선언/함수의 선언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "10. 함수/함수의 기본/함수의 선언/함수의 선언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md"
+                "file": "10. 함수/함수의 기본/함수의 선언/함수의 선언.md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "fa074a8b159dd1f1",
   "lastOpenFiles": [
+    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 정의/매개변수 목록.md",
@@ -198,7 +199,6 @@
     "10. 함수/함수의 종류/함수의 종류.md",
     "10. 함수/함수의 종류/사용자 정의 함수(user-defined function).md",
     "10. 함수/함수의 종류/라이브러리 함수(library function).md",
-    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출",
     "10. 함수/함수의 기본/함수의 선언",
     "무제 파일.canvas",
