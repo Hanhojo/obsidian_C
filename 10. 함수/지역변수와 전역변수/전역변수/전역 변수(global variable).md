@@ -15,7 +15,7 @@ void print_count(void);
 void increment(void);
 void decrement(void);
 
-int count; // 전역 변수 
+int count; // 전역 변수 선언
 
 int main(void)
 {
@@ -53,3 +53,5 @@ void decrement(void)
 count = 3
 count = 0
 ```
+
+- [[변수의 영역 규칙]]

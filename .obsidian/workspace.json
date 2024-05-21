@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/지역변수와 전역변수/전역변수/전역 변수(global variable).md",
+                "file": "10. 함수/지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/지역변수와 전역변수/전역변수/전역 변수(global variable).md",
+                "file": "10. 함수/지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/지역변수와 전역변수/전역변수/전역 변수(global variable).md",
+                "file": "10. 함수/지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/지역변수와 전역변수/전역변수/전역 변수(global variable).md"
+                "file": "10. 함수/지역변수와 전역변수/전역변수/변수의 영역 규칙.md"
               }
             }
           }
@@ -188,8 +188,9 @@
   },
   "active": "fa074a8b159dd1f1",
   "lastOpenFiles": [
-    "10. 함수/지역변수와 전역변수/지역변수/지역 변수(local variable).md",
     "10. 함수/지역변수와 전역변수/전역변수/전역 변수(global variable).md",
+    "10. 함수/지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
+    "10. 함수/지역변수와 전역변수/지역변수/지역 변수(local variable).md",
     "10. 함수/함수의 기본/함수의 선언/함수의 선언.md",
     "10. 함수/지역변수와 전역변수/전역변수",
     "10. 함수/지역변수와 전역변수/지역변수/지역 변수의 사용 범위.md",
