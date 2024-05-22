@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+                "file": "10. 함수/지역변수와 전역변수/지역변수/지역 변수의 사용 범위.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+            "file": "10. 함수/지역변수와 전역변수/지역변수/지역 변수의 사용 범위.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
+            "file": "10. 함수/지역변수와 전역변수/지역변수/지역 변수의 사용 범위.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md"
+            "file": "10. 함수/지역변수와 전역변수/지역변수/지역 변수의 사용 범위.md"
           }
         }
       }
@@ -123,7 +123,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -134,21 +133,24 @@
   },
   "active": "85d0f75ba05358ba",
   "lastOpenFiles": [
+    "10. 함수/지역변수와 전역변수/지역변수/지역 변수(local variable).md",
+    "10. 함수/함수의 기본/함수의 선언/함수의 선언.md",
+    "10. 함수/함수의 기본/함수의 기본.md",
+    "10. 함수/함수의 기본/함수의 정의/함수의 정의 특징.md",
+    "10. 함수/함수의 기본/함수의 정의/리턴형.md",
+    "10. 함수/함수의 기본/함수의 정의/매개변수 목록.md",
+    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수의 호출.md",
     "10. 함수/함수의 기본/함수의 호출/리턴값과 매개변수가 없는 함수의 호출.md",
-    "10. 함수/함수의 기본/함수의 정의/매개변수 목록.md",
-    "10. 함수/함수의 기본/함수의 정의/함수의 정의 특징.md",
     "10. 함수/함수의 기본/함수의 정의/함수의 내용.md",
     "10. 함수/함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
     "10. 함수/함수의 기본/함수의 호출/함수의 호출.md",
     "4. 변수/변수의 특징/변수(식별자)의 선언  규칙.md",
     "10. 함수/함수의 기본/함수의 정의/함수 이름.md",
-    "10. 함수/함수의 기본/함수의 정의/리턴형.md",
     "10. 함수/함수의 종류/진입점 함수(entry point function).md",
     "10. 함수/함수의 종류/사용자 정의 함수(user-defined function).md",
     "10. 함수/함수의 종류/라이브러리 함수(library function).md",
     "10. 함수/함수의 기본/함수의 호출/리턴값은 없고 매개변수만 있는 함수의 호출.md",
-    "10. 함수/함수의 기본/함수의 호출/get_factorial 함수의 호출.md",
     "9.  반복문/반복문의 종류/for.md",
     "9.  반복문/분기문/break.md",
     "9.  반복문/분기문/분기문.md",
@@ -156,9 +158,6 @@
     "9.  반복문/반복문의 종류/do while.md",
     "1. C언어와 프로그래밍 개요/C 프로그램의 기본/함수.md",
     "1. C언어와 프로그래밍 개요/C 프로그램의 기본/main함수.md",
-    "10. 함수/진입점 함수(entry point function).md",
-    "10. 함수/사용자 정의 함수(user-defined function).md",
-    "10. 함수/라이브러리 함수(library function).md",
-    "연산자의 기본 개념/수식.md"
+    "10. 함수/진입점 함수(entry point function).md"
   ]
 }
