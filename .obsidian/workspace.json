@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/10-2 지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
+                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
                 "mode": "preview",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 238.5
   },
   "right": {
     "id": "cd7200f697e9023a",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/10-2 지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
+                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/10-2 지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
+                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/10-2 지역변수와 전역변수/전역변수/변수의 영역 규칙.md"
+                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "0c3d76b74f0da4e9",
   "lastOpenFiles": [
-    "10. 함수/10-2 지역변수와 전역변수/전역변수/전역 변수(global variable).md",
     "10. 함수/10-2 지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
+    "10. 함수/10-2 지역변수와 전역변수/전역변수/전역 변수(global variable).md",
     "10. 함수/10-1 함수의 기본/함수의 기본.md",
     "10. 함수/10-1 함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수 호출/리턴값과 매개변수가 있는 함수의 호출.md",
     "10. 함수/10-1 함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수 호출",
