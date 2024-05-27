@@ -1,5 +1,5 @@
 ```c
-# include <stdio.h>
+#include<stdio.h>
 
 int get_factorial(int x, int y) // 유클리드 호제법으로 최대 공약수를 구한다.
 {
