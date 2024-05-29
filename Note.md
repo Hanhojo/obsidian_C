@@ -1,4 +1,5 @@
 ```c
 #include <stdio.h>
-d
+void draw_line(char c, int length)
+double get_area(double radius)
 ```
