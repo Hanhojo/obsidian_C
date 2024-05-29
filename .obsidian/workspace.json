@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "6fe3df379bc38ebb",
-        "type": "tabs",
+        "id": "e239fc8b1173030d",
+        "type": "split",
         "children": [
           {
-            "id": "0c3d76b74f0da4e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
-                "mode": "preview",
-                "source": false
+            "id": "6fe3df379bc38ebb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3eeb22d57490abd2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "3eeb22d57490abd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. 함수/10-1 함수의 기본/함수의 정의/매개변수 목록.md",
-                "mode": "source",
-                "source": false
+            "id": "60ac71848ae5956d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c3d76b74f0da4e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Note.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cd7200f697e9023a",
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
+                "file": "Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
+                "file": "Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md"
+                "file": "Note.md"
               }
             }
           }
@@ -173,16 +187,16 @@
   },
   "active": "0c3d76b74f0da4e9",
   "lastOpenFiles": [
-    "10. 함수/10-1 함수의 기본/함수의 정의/매개변수 목록.md",
-    "Note.md",
-    "10. 함수/10-1 함수의 기본/함수의 정의/함수의 정의 특징.md",
     "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
-    "함수 요약.md",
+    "Note.md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/매개변수 목록.md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/리턴형.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/함수 이름.md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/함수의 정의 특징.md",
+    "함수 요약.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/함수의 내용.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값은 없고 매개변수만 있는 함수.md",
     "10. 함수/10-1 함수의 기본/함수의 기본.md",
-    "10. 함수/10-1 함수의 기본/함수의 정의/리턴형.md",
     "10. 함수/10-1 함수의 기본/함수의 호출/함수의 호출.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/여러가지 함수의 정의.md",
