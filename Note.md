@@ -9,7 +9,8 @@ int main(void)
 	int i;
 
 	draw_line('-', 40); // - char, 40은 int
-	for(i=5l)
+	for(i=5; i <= 20; i += 5) {
+		printf}
 }
 
 
