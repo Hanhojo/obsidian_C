@@ -11,8 +11,12 @@
             "id": "5bfbc4134ac3d22c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "9.  반복문/for의 여러 가지 변형.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "9.  반복문/for의 여러 가지 변형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "9.  반복문/for의 여러 가지 변형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "9.  반복문/for의 여러 가지 변형.md"
+              }
             }
           }
         ],
@@ -153,6 +161,7 @@
   },
   "active": "5bfbc4134ac3d22c",
   "lastOpenFiles": [
+    "9.  반복문/9-1 반복문의 종류/for.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/함수의 정의 특징.md",
     "10. 함수/10-1 함수의 기본/함수의 기본.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값은 없고 매개변수만 있는 함수.md",
@@ -181,7 +190,6 @@
     "10. 함수/10-1 함수의 기본/함수의 호출/리턴값은 없고 매개변수만 있는 함수의 호출.md",
     "10. 함수/10-1 함수의 기본/함수의 호출/함수 호출 시 유의사항.md",
     "10. 함수/10-1 함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수 호출/get_area 함수의 호출.md",
-    "10. 함수/10-1 함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수 호출/get_gcd 함수의 호출.md",
     "10. 함수/10-2 지역변수와 전역변수/전역변수",
     "10. 함수/10-2 지역변수와 전역변수/지역변수",
     "10. 함수/10-2 지역변수와 전역변수",
