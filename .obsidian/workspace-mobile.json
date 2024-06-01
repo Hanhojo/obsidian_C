@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. 함수/10-1 함수의 기본/10-1-1함수의 선언/함수의 선언.md",
-                "mode": "preview",
+                "file": "10. 함수/10-1 함수의 기본/함수의 정의/리턴형.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "10. 함수/10-1 함수의 기본/10-1-1함수의 선언/함수의 선언.md",
+            "file": "10. 함수/10-1 함수의 기본/함수의 정의/리턴형.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "10. 함수/10-1 함수의 기본/10-1-1함수의 선언/함수의 선언.md",
+            "file": "10. 함수/10-1 함수의 기본/함수의 정의/리턴형.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "10. 함수/10-1 함수의 기본/10-1-1함수의 선언/함수의 선언.md"
+            "file": "10. 함수/10-1 함수의 기본/함수의 정의/리턴형.md"
           }
         }
       }

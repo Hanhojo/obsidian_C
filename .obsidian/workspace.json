@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d84cb93ac5f39d6",
+        "id": "1ed8cc46e259dad6",
         "type": "tabs",
         "children": [
           {
-            "id": "476deff90323aba0",
+            "id": "5bfbc4134ac3d22c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -151,7 +151,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "476deff90323aba0",
+  "active": "5bfbc4134ac3d22c",
   "lastOpenFiles": [
     "10. 함수/10-1 함수의 기본/함수의 정의/함수의 정의 특징.md",
     "10. 함수/10-1 함수의 기본/함수의 기본.md",
