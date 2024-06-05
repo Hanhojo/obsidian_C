@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배열의 초기화.md",
+                "file": "배열(array).md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "배열의 초기화.md",
+                "file": "배열(array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "배열의 초기화.md",
+                "file": "배열(array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배열의 초기화.md"
+                "file": "배열(array).md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "4cd819cff8b9eab4",
   "lastOpenFiles": [
-    "배열(array).md",
     "배열의 초기화.md",
+    "배열(array).md",
     "배열의 선언.md",
     "배열의 특징.md",
     "9.  반복문/for의 여러 가지 변형.md",
