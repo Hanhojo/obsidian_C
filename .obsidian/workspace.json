@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.  반복문/9-2 분기문/continue.md",
+                "file": "9.  반복문/for의 여러 가지 변형.md",
                 "mode": "preview",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.  반복문/9-2 분기문/continue.md",
+                "file": "9.  반복문/for의 여러 가지 변형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.  반복문/9-2 분기문/continue.md",
+                "file": "9.  반복문/for의 여러 가지 변형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.  반복문/9-2 분기문/continue.md"
+                "file": "9.  반복문/for의 여러 가지 변형.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "85eacd1b4057ac81",
   "lastOpenFiles": [
+    "9.  반복문/9-1 반복문의 종류/for.md",
+    "9.  반복문/9-1 반복문의 종류/while.md",
+    "9.  반복문/9-2 분기문/return.md",
+    "9.  반복문/9-2 분기문/goto.md",
+    "9.  반복문/9-2 분기문/continue.md",
     "9.  반복문/9-2 분기문/break.md",
     "9.  반복문/9-2 분기문/분기문.md",
     "9.  반복문/for의 여러 가지 변형.md",
-    "9.  반복문/9-1 반복문의 종류/for.md",
     "11. 배열/배열의 활용/7. 함수의 인자로 배열 전달하기.md",
     "11. 배열/배열의 활용/6. 2차원 배열의 초기화.md",
     "11. 배열/배열의 선언.md",
@@ -187,10 +191,6 @@
     "10. 함수/10-1 함수의 기본/함수의 정의/함수의 정의 특징.md",
     "10. 함수/10-1 함수의 기본/함수의 기본.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값은 없고 매개변수만 있는 함수.md",
-    "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값과 매개변수가 있는 함수.md",
-    "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
-    "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
-    "10. 함수/10-1 함수의 기본/함수의 정의/함수 이름.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "10. 함수/10-1 함수의 기본/함수의 호출/리턴값과 매개변수가 있는 함수 호출",
