@@ -8,7 +8,7 @@ ____
 3. 라이브러리 함수를 호출하려면 **라이브러리 헤더**가 필요하다.
 
 ```c
-# include <stdio.h>
+#include <stdio.h>
 
 char ch;
 scanf("%c", &ch);
