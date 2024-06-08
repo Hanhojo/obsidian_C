@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-1.2차원 배열의 선언 및 사용.md",
+                "file": "11. 배열/배열의활용/5.2차원 배열의 선언 및 사용.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-1.2차원 배열의 선언 및 사용.md",
+                "file": "11. 배열/배열의활용/5.2차원 배열의 선언 및 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-1.2차원 배열의 선언 및 사용.md",
+                "file": "11. 배열/배열의활용/5.2차원 배열의 선언 및 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-1.2차원 배열의 선언 및 사용.md"
+                "file": "11. 배열/배열의활용/5.2차원 배열의 선언 및 사용.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "85eacd1b4057ac81",
   "lastOpenFiles": [
     "11. 배열/배열의활용/4.다차원배열.md",
-    "4-1.2차원 배열의 선언 및 사용.md",
+    "11. 배열/배열의활용/5.2차원 배열의 선언 및 사용.md",
     "11. 배열/배열의활용/1. 배열의 활용.md",
     "11. 배열/배열의활용/2.배열의 탐색.md",
     "11. 배열/베열의 사용/4. 배열의 비교.md",
