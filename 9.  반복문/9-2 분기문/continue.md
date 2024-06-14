@@ -7,7 +7,7 @@ ___
 - while문 안에서 continue를 만나면 while의 시작 부분으로 이동해서 조건식을 검사하고 루프를 반복한다.
 - do while문 안에서 continue를 만나면 do while의 끝 부분에 있는 조건식을 검사하고 루프를 반복한다.
 ```c
-for (i = 10; o > 0;, i--);
+for (i = 10; i > 0;, i--);
 {
 	if (i % 3 == 0)
 	continue; // i-- 부분으로 이동한다.
