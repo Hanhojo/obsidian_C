@@ -11,12 +11,8 @@
             "id": "85d0f75ba05358ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -123,22 +115,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "85d0f75ba05358ba",
   "lastOpenFiles": [
+    "1. C언어와 프로그래밍 개요/C 프로그램 개발/전처리(Preprocessing).md",
+    "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
     "10. 함수/10-1 함수의 기본/함수의 호출/함수의 호출.md",
     "10. 함수/10-1 함수의 기본/함수의 기본.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값과 매개변수가 없는 함수.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값은 없고 매개변수만 있는 함수.md",
     "10. 함수/10-1 함수의 기본/함수의 정의/여러 가지 함수의 정의/리턴값과 매개변수가 있는 함수.md",
-    "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
     "10. 함수/10-2 지역변수와 전역변수/전역변수/전역 변수(global variable).md",
     "10. 함수/10-2 지역변수와 전역변수/지역변수/지역 변수(local variable).md",
     "10. 함수/10-2 지역변수와 전역변수/전역변수/변수의 영역 규칙.md",
@@ -157,7 +150,6 @@
     "11. 배열/배열의 활용/2. 배열의 탐색.md",
     "11. 배열/배열의 선언.md",
     "11. 배열/베열의 사용/1. 배열의 사용.md",
-    "11. 배열/베열의 사용/4. 배열의 비교.md",
-    "11. 배열/베열의 사용/3. 배열의 복사.md"
+    "11. 배열/베열의 사용/4. 배열의 비교.md"
   ]
 }
