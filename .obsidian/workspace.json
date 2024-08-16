@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 201.5
   },
   "right": {
     "id": "d03f2322531dea4a",
@@ -146,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "10c49dce56ccbac0",
+  "active": "78fbcb452adc0458",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md"
   ]
