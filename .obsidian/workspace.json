@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8de49c716c83cfc2",
+        "id": "5f4eedf1dfb7cb36",
         "type": "tabs",
         "children": [
           {
-            "id": "3b93bba13bb52ba3",
+            "id": "8becf8faad7a09af",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -151,7 +151,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3b93bba13bb52ba3",
+  "active": "2ae6aa1af836b92c",
   "lastOpenFiles": [
     "README.md",
     "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
