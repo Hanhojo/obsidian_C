@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cd7200f697e9023a",
@@ -152,7 +151,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2ae6aa1af836b92c",
+  "active": "8becf8faad7a09af",
   "lastOpenFiles": [
     "README.md",
     "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
