@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "78c1d1152bd54815",
+    "type": "split",
+    "children": [
+      {
+        "id": "0313d4a917b32514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60c601907f2f4714",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "IMG_0018.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80b55cae397dcda1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8225d3fca386473b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "ee364bccbf1a53aa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4e12312334d22d3b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "30b983147b0f6d79",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fdf6935418d056aa",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "354b49a4c4ec708e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "IMG_0018.jpg",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "aa529717c8c7634b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "IMG_0018.jpg",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ab476f53c7aa597e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "IMG_0018.jpg"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "60c601907f2f4714",
+  "lastOpenFiles": [
+    "무제 파일.md",
+    "IMG_0018.jpg",
+    "IMG_0024.jpg",
+    "9.  반복문/9-1 반복문의 종류/for.md",
+    "IMG_0039.jpg",
+    "IMG_0038.jpg",
+    "IMG_0036.jpg",
+    "IMG_0037.jpg",
+    "IMG_0035.jpg",
+    "IMG_0034.jpg",
+    "IMG_0033.jpg",
+    "IMG_0032.jpg",
+    "9.  반복문/반복문.md",
+    "무제 폴더",
+    "9.  반복문/9-2 분기문/분기문.md",
+    "9.  반복문/9-1 반복문의 종류/while.md",
+    "8. 제어문/제어문(control statement).md",
+    "2. C 프로그램의 구성 요소/scanf.md",
+    "2. C 프로그램의 구성 요소/scanf 형식 문자열/%lf.md",
+    "2. C 프로그램의 구성 요소/scanf 형식 문자열/%f.md",
+    "2. C 프로그램의 구성 요소/scanf 형식 문자열/%i.md",
+    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%e, %E.md",
+    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%x.md",
+    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%d.md",
+    "2. C 프로그램의 구성 요소/printf.md",
+    "3. C 데이터형/데이터형의 바이트 크기.md",
+    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%f, %F.md",
+    "4. 변수/변수의 특징/변수의 사용.md",
+    "5. 상수/상수(constant).md",
+    "3. C 데이터형/문자형/문자형.md",
+    "3. C 데이터형/정수형/정수형.md",
+    "3. C 데이터형/c언어 기본 데이터형.md",
+    "3. C 데이터형/실수형/실수형의 2진표현.md",
+    "3. C 데이터형/실수형/실수형.md",
+    "3. C 데이터형/실수형/실수형의 유효범위.md",
+    "3. C 데이터형/데이터의 기본 개념.md"
+  ]
+}

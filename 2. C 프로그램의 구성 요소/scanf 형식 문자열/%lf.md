@@ -2,5 +2,5 @@
 
 ```c
 double y;
-scanf("%lf", y);
+scanf("%lf", &y);
 ```
