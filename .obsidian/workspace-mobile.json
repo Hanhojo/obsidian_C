@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0313d4a917b32514",
+        "id": "1e991034d1c824cb",
         "type": "tabs",
         "children": [
           {
-            "id": "60c601907f2f4714",
+            "id": "d7e6be71364e0fc5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "IMG_0018.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "IMG_0018.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "IMG_0018.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "IMG_0018.jpg"
-          }
+          "state": {}
         }
       }
     ],
@@ -129,12 +123,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "60c601907f2f4714",
+  "active": "d7e6be71364e0fc5",
   "lastOpenFiles": [
+    "3. C 데이터형/데이터형의 바이트 크기.md",
+    "6. 음의 정수 표현/r 진법의 보수 표현.md",
+    "3. C 데이터형/실수형/실수형의 유효범위.md",
     "무제 파일.md",
-    "IMG_0018.jpg",
-    "IMG_0024.jpg",
+    "3. C 데이터형/실수형/실수형.md",
+    "3. C 데이터형/실수형/실수형의 2진표현.md",
+    "3. C 데이터형/c언어 기본 데이터형.md",
+    "3. C 데이터형/정수형/정수형의 유효범위.md",
+    "3. C 데이터형/정수형/정수형.md",
+    "3. C 데이터형/정수형/정수의 2진 표현.md",
+    "3. C 데이터형/문자형/문자형.md",
     "9.  반복문/9-1 반복문의 종류/for.md",
+    "IMG_0024.jpg",
+    "IMG_0018.jpg",
     "IMG_0039.jpg",
     "IMG_0038.jpg",
     "IMG_0036.jpg",
@@ -156,16 +160,7 @@
     "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%x.md",
     "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%d.md",
     "2. C 프로그램의 구성 요소/printf.md",
-    "3. C 데이터형/데이터형의 바이트 크기.md",
     "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%f, %F.md",
-    "4. 변수/변수의 특징/변수의 사용.md",
-    "5. 상수/상수(constant).md",
-    "3. C 데이터형/문자형/문자형.md",
-    "3. C 데이터형/정수형/정수형.md",
-    "3. C 데이터형/c언어 기본 데이터형.md",
-    "3. C 데이터형/실수형/실수형의 2진표현.md",
-    "3. C 데이터형/실수형/실수형.md",
-    "3. C 데이터형/실수형/실수형의 유효범위.md",
-    "3. C 데이터형/데이터의 기본 개념.md"
+    "4. 변수/변수의 특징/변수의 사용.md"
   ]
 }
