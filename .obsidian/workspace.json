@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "포인터의 개념.md",
+                "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/(1) 포인터의 선언.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "포인터의 개념.md",
+                "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/(1) 포인터의 선언.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "포인터의 개념.md",
+                "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/(1) 포인터의 선언.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "포인터의 개념.md"
+                "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/(1) 포인터의 선언.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "7ec8eadc57db70e1",
   "lastOpenFiles": [
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/포인터의 선언 및 초기화.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/(2) 포인터의 초기화.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/(1) 포인터의 선언.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화",
+    "12. 포인터/포인터의 기본/포인터의 개념.md",
     "11. 배열/배열(array).md",
-    "포인터의 개념.md",
     "12. 포인터/포인터의 기본",
     "README.md",
     "IMG_0018.jpg",
