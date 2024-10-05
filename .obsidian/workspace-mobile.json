@@ -11,8 +11,12 @@
             "id": "d7e6be71364e0fc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "README.md"
+          }
         }
       }
     ],
@@ -123,12 +131,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d7e6be71364e0fc5",
+  "active": "8225d3fca386473b",
   "lastOpenFiles": [
+    "무제 파일.md",
     "3. C 데이터형/데이터형의 바이트 크기.md",
     "6. 음의 정수 표현/r 진법의 보수 표현.md",
     "3. C 데이터형/실수형/실수형의 유효범위.md",
-    "무제 파일.md",
     "3. C 데이터형/실수형/실수형.md",
     "3. C 데이터형/실수형/실수형의 2진표현.md",
     "3. C 데이터형/c언어 기본 데이터형.md",

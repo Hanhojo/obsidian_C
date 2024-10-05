@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c837433a4451b10",
+        "id": "7aeba2933d289ef6",
         "type": "tabs",
         "children": [
           {
-            "id": "10c49dce56ccbac0",
+            "id": "7ec8eadc57db70e1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "10c49dce56ccbac0",
+  "active": "7ec8eadc57db70e1",
   "lastOpenFiles": [
     "README.md",
     "IMG_0018.jpg",
