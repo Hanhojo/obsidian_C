@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e991034d1c824cb",
+        "id": "5fbce24c3b58b454",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e6be71364e0fc5",
+            "id": "8903ed54c433f99e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md"
           }
         }
       }
@@ -131,8 +131,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8225d3fca386473b",
+  "active": "8903ed54c433f99e",
   "lastOpenFiles": [
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/포인터의 선언 및 초기화.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/1. 포인터의 선언.md",
+    "12. 포인터/포인터의 기본/포인터의 개념.md",
+    "README.md",
     "무제 파일.md",
     "3. C 데이터형/데이터형의 바이트 크기.md",
     "6. 음의 정수 표현/r 진법의 보수 표현.md",
@@ -164,11 +169,6 @@
     "2. C 프로그램의 구성 요소/scanf 형식 문자열/%lf.md",
     "2. C 프로그램의 구성 요소/scanf 형식 문자열/%f.md",
     "2. C 프로그램의 구성 요소/scanf 형식 문자열/%i.md",
-    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%e, %E.md",
-    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%x.md",
-    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%d.md",
-    "2. C 프로그램의 구성 요소/printf.md",
-    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%f, %F.md",
-    "4. 변수/변수의 특징/변수의 사용.md"
+    "2. C 프로그램의 구성 요소/prinrf 형식 문자열/%e, %E.md"
   ]
 }
