@@ -11,8 +11,12 @@
             "id": "9cc2d3ea0e24037d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "12. 포인터/포인터의 기본/포인터의 용도.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "12. 포인터/포인터의 기본/포인터의 용도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "12. 포인터/포인터의 기본/포인터의 용도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "12. 포인터/포인터의 기본/포인터의 용도.md"
+              }
             }
           }
         ]
@@ -142,10 +150,10 @@
   "lastOpenFiles": [
     "12. 포인터/포인터의 기본/포인터의 사용.md",
     "12. 포인터/포인터의 기본/포인터의 용도.md",
-    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/1. 포인터의 선언.md",
-    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/포인터의 선언 및 초기화.md",
     "12. 포인터/포인터의 기본/포인터의 개념.md",
     "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/1. 포인터의 선언.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/포인터의 선언 및 초기화.md",
     "11. 배열/배열(array).md",
     "12. 포인터/포인터의 기본/포인터의 선언 및 초기화",
     "12. 포인터/포인터의 기본",
