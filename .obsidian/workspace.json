@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. 포인터/포인터의 활용/배열과 포인터의 관계.md",
+                "file": "3. C 데이터형/데이터형의 바이트 크기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12. 포인터/포인터의 활용/배열과 포인터의 관계.md",
+                "file": "3. C 데이터형/데이터형의 바이트 크기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12. 포인터/포인터의 활용/배열과 포인터의 관계.md",
+                "file": "3. C 데이터형/데이터형의 바이트 크기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12. 포인터/포인터의 활용/배열과 포인터의 관계.md"
+                "file": "3. C 데이터형/데이터형의 바이트 크기.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "bd8224a6275b4a39",
   "lastOpenFiles": [
-    "12. 포인터/포인터의 활용/포인터의 활용.md",
     "12. 포인터/포인터의 활용/배열과 포인터의 관계.md",
+    "12. 포인터/포인터의 활용/포인터의 활용.md",
     "12. 포인터/포인터의 기본/포인터의 개념.md",
     "무제 폴더",
     "12. 포인터/포인터의 활용",
