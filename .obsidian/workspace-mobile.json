@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
+                "file": "12. 포인터/포인터의 기본/const 포인터.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "const 포인터"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "검색"
         }
       },
       {
@@ -61,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -69,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -85,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
+            "file": "12. 포인터/포인터의 기본/const 포인터.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -93,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
         }
       },
       {
@@ -105,7 +117,9 @@
             "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
         }
       },
       {
@@ -115,7 +129,9 @@
           "type": "outline",
           "state": {
             "file": "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "개요"
         }
       }
     ],
@@ -133,24 +149,32 @@
   },
   "active": "8903ed54c433f99e",
   "lastOpenFiles": [
-    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/1. 포인터의 선언.md",
-    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
-    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/포인터의 선언 및 초기화.md",
+    "12. 포인터/포인터의 기본/포인터 사용 시 유의사항.md",
     "12. 포인터/포인터의 기본/포인터의 개념.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/2. 포인터의 초기화.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/1. 포인터의 선언.md",
+    "12. 포인터/포인터의 기본/포인터의 선언 및 초기화/포인터의 선언 및 초기화.md",
+    "11. 배열/배열(array).md",
     "11. 배열/배열의 선언.md",
-    "README.md",
-    "무제 파일.md",
-    "3. C 데이터형/데이터형의 바이트 크기.md",
-    "6. 음의 정수 표현/r 진법의 보수 표현.md",
-    "3. C 데이터형/실수형/실수형의 유효범위.md",
-    "3. C 데이터형/실수형/실수형.md",
-    "3. C 데이터형/실수형/실수형의 2진표현.md",
-    "3. C 데이터형/c언어 기본 데이터형.md",
-    "3. C 데이터형/정수형/정수형의 유효범위.md",
-    "3. C 데이터형/정수형/정수형.md",
-    "3. C 데이터형/정수형/정수의 2진 표현.md",
-    "3. C 데이터형/문자형/문자형.md",
+    "11. 배열/배열의 특징.md",
+    "8. 제어문/switch.md",
+    "10. 함수/10-2 지역변수와 전역변수/지역변수/지역 변수(local variable).md",
+    "10. 함수/10-2 지역변수와 전역변수/전역변수/전역 변수(global variable).md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/함수의 정의 특징.md",
+    "10. 함수/10-1 함수의 기본/함수의 선언/함수의 선언.md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/함수 이름.md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/매개변수 목록.md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/리턴형.md",
+    "10. 함수/10-1 함수의 기본/함수의 정의/함수의 내용.md",
+    "9.  반복문/for의 여러 가지 변형.md",
     "9.  반복문/9-1 반복문의 종류/for.md",
+    "7. 연산자의 기본 개념/단항 연산자/단항 연산자(unary operator).md",
+    "7. 연산자의 기본 개념/연산자와 피연산자.md",
+    "7. 연산자의 기본 개념/수식.md",
+    "4. 변수/변수(Variable).md",
+    "4. 변수/변수의 특징/변수의 사용.md",
+    "4. 변수/변수의 특징/변수(식별자)의 선언  규칙.md",
+    "3. C 데이터형/데이터형의 바이트 크기.md",
     "IMG_0024.jpg",
     "IMG_0018.jpg",
     "IMG_0039.jpg",
@@ -161,14 +185,6 @@
     "IMG_0034.jpg",
     "IMG_0033.jpg",
     "IMG_0032.jpg",
-    "9.  반복문/반복문.md",
-    "무제 폴더",
-    "9.  반복문/9-2 분기문/분기문.md",
-    "9.  반복문/9-1 반복문의 종류/while.md",
-    "8. 제어문/제어문(control statement).md",
-    "2. C 프로그램의 구성 요소/scanf.md",
-    "2. C 프로그램의 구성 요소/scanf 형식 문자열/%lf.md",
-    "2. C 프로그램의 구성 요소/scanf 형식 문자열/%f.md",
-    "2. C 프로그램의 구성 요소/scanf 형식 문자열/%i.md"
+    "무제 폴더"
   ]
 }
