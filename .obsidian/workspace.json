@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. 문자열/문자배열/문자 배열의 선언 및 초기화.md",
+                "file": "13. 문자열/문자배열/문자 배열의 사용.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. 문자열/문자배열/문자 배열의 선언 및 초기화.md",
+                "file": "13. 문자열/문자배열/문자 배열의 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. 문자열/문자배열/문자 배열의 선언 및 초기화.md",
+                "file": "13. 문자열/문자배열/문자 배열의 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. 문자열/문자배열/문자 배열의 선언 및 초기화.md"
+                "file": "13. 문자열/문자배열/문자 배열의 사용.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "6b2390832c323d57",
   "lastOpenFiles": [
-    "13. 문자열/문자배열/문자배열.md",
-    "13. 문자열/문자배열/문자와 문자열.md",
     "13. 문자열/문자배열/문자 배열의 선언 및 초기화.md",
+    "13. 문자열/문자배열/문자와 문자열.md",
+    "13. 문자열/문자배열/문자배열.md",
     "13. 문자열/문자배열/문자 배열의 사용.md",
     "2. C 프로그램의 구성 요소/printf.md",
     "4. 변수/변수의 특징/변수(식별자)의 선언  규칙.md",
