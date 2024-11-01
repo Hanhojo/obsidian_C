@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/1. 문자열 길이 구하기.md",
-                "mode": "source",
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/2. 문자열의 복사.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/1. 문자열 길이 구하기.md",
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/2. 문자열의 복사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/1. 문자열 길이 구하기.md",
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/2. 문자열의 복사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/1. 문자열 길이 구하기.md"
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/2. 문자열의 복사.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "1676a1ae66016732",
   "lastOpenFiles": [
+    "13. 문자열/표준 C의 문자열 처리 함수/1. 문자열 길이 구하기.md",
     "13. 문자열/표준 C의 문자열 처리 함수/표준 C의 문자열 처리 함수.md",
     "13. 문자열/문자배열/3. 문자 배열의 사용.md",
-    "13. 문자열/표준 C의 문자열 처리 함수/1. 문자열 길이 구하기.md",
     "13. 문자열/문자배열/문자배열.md",
     "13. 문자열/문자배열/1. 문자와 문자열.md",
     "13. 문자열/문자배열/2. 문자 배열의 선언 및 초기화.md",
