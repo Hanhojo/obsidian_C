@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/5. 문자열의 검색.md",
-                "mode": "source",
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/3. 문자열의 비교.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/5. 문자열의 검색.md",
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/3. 문자열의 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/5. 문자열의 검색.md",
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/3. 문자열의 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/5. 문자열의 검색.md"
+                "file": "13. 문자열/표준 C의 문자열 처리 함수/3. 문자열의 비교.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   "active": "569f2c027fa8879b",
   "lastOpenFiles": [
     "13. 문자열/표준 C의 문자열 처리 함수/4. 문자열의 연결.md",
-    "13. 문자열/표준 C의 문자열 처리 함수/3. 문자열의 비교.md",
     "13. 문자열/표준 C의 문자열 처리 함수/5. 문자열의 검색.md",
+    "13. 문자열/표준 C의 문자열 처리 함수/3. 문자열의 비교.md",
     "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
     "13. 문자열/표준 C의 문자열 처리 함수/표준 C의 문자열 처리 함수.md",
     "13. 문자열/표준 C의 문자열 처리 함수/2. 문자열의 복사.md",
