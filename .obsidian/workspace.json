@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07e7d75cd695481c",
+        "id": "925860297f19d866",
         "type": "tabs",
         "children": [
           {
-            "id": "1656e29761ba4018",
+            "id": "802aba09a3ca8cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,24 @@
               "icon": "lucide-file",
               "title": "1. char*형의 문자열 포인터"
             }
+          },
+          {
+            "id": "25826b8dc5b87eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. const char*형의 문자열 포인터"
+            }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
+                "file": "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1. char*형의 문자열 포인터의 백링크"
+              "title": "2. const char*형의 문자열 포인터의 백링크"
             }
           },
           {
@@ -112,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
+                "file": "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1. char*형의 문자열 포인터의 나가는 링크"
+              "title": "2. const char*형의 문자열 포인터의 나가는 링크"
             }
           },
           {
@@ -139,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md"
+                "file": "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md"
               },
               "icon": "lucide-list",
-              "title": "1. char*형의 문자열 포인터 개요"
+              "title": "2. const char*형의 문자열 포인터 개요"
             }
           }
         ]
@@ -163,13 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1656e29761ba4018",
+  "active": "25826b8dc5b87eb9",
   "lastOpenFiles": [
-    "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
     "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
+    "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
+    "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
     "13. 문자열/문자열 포인터/3. 문자열 사용을 위한 가이드라인.md",
     "13. 문자열/문자열 포인터/문자열 포인터.md",
-    "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
     "문자열 사용을 위한 가이드라인.md",
     "char*형의 문자열 포인터.md",
     "13. 문자열/표준 C의 문자열 처리 함수/표준 C의 문자열 처리 함수.md",
