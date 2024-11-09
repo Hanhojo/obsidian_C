@@ -31,12 +31,12 @@ swap_string(str1, "no good", SIZE) // 실행 에러
 #include <stdio.h>
 #include <string.h> // 문자열 처리 라이브러리
 #define SIZE 28 // 문자열 배열의 크기를 정의, 문자열의 최대 길이 28
-int swap_string(char* lhs, char* rhs, int size);
+int swap_string(char* lhs, char* rhs, int size); // size는 문자열의 최대 크기
 
 int main(void)
 {
-	char str1[SIZE] = "";
-	char str2[SIZE] = "";
+	char str1[SIZE] = ""; // 빈 문자열로 초기화
+	char str2[SIZE] = ""; // 빈 문자열로 초기화
 
 	printf("문자열 2개? ");
 	scanf("%s %s", str1, str2);
@@ -49,11 +49,11 @@ int main(void)
 
 int swap_string(char* lhs, char* rhs, int size)
 {
-	int lhs_len = strlen(lhs);
-	int rhs_len = strlen(rhs);
+	int lhs_len = strlen(lhs); // lhs의 문자열의 길이를 계산후 저장
+	int rhs_len = strlen(rhs); // rhs의 문자열의 길이를 계산후 저장
 	char temp[SIZE] = "";
 
-	if (lhs_len + 1 > size || rhs_len + 1 > size)
+	if (lhs_len + 1 > size || rhs_len + 1 > size) // lhs나 rhs 문자열의 길이가 size보다 크면 교환하지 않고 0을 반환 +1은 널문자가 필요해서임
 		return 0; // swap_string 실패
 
 	strcpy(temp, lhs);
