@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 3,
         "stacked": true
       }
     ],
