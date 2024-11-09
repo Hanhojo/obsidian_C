@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
+                "file": "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. 문자열의 입출력"
+              "title": "1. char*형의 문자열 포인터"
             }
           },
           {
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -193,14 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25826b8dc5b87eb9",
+  "active": "5e52027c399e1c65",
   "lastOpenFiles": [
+    "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
+    "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
+    "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
     "13. 문자열/문자열 포인터/3. 문자열 사용을 위한 가이드라인.md",
     "13. 문자열/표준 C의 문자열 처리 함수/5. 문자열의 검색.md",
     "13. 문자열/표준 C의 문자열 처리 함수/6. 문자열의 토큰 나누기.md",
-    "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
-    "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
-    "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
     "13. 문자열/문자열 포인터/문자열 포인터.md",
     "문자열 사용을 위한 가이드라인.md",
     "char*형의 문자열 포인터.md",
