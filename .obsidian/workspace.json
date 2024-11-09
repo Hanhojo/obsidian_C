@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "2. const char*형의 문자열 포인터"
+            }
+          },
+          {
+            "id": "5e52027c399e1c65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. 문자열/문자열 포인터/3. 문자열 사용을 위한 가이드라인.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. 문자열 사용을 위한 가이드라인"
             }
           }
         ],
@@ -181,9 +195,9 @@
   "active": "802aba09a3ca8cce",
   "lastOpenFiles": [
     "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
+    "13. 문자열/문자열 포인터/3. 문자열 사용을 위한 가이드라인.md",
     "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
     "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
-    "13. 문자열/문자열 포인터/3. 문자열 사용을 위한 가이드라인.md",
     "13. 문자열/문자열 포인터/문자열 포인터.md",
     "문자열 사용을 위한 가이드라인.md",
     "char*형의 문자열 포인터.md",
