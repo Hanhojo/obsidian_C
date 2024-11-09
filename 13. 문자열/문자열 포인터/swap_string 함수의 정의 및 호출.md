@@ -17,4 +17,4 @@ int swap_string(char* lhs, char* rhs, int size)
 }
 ```
 - swap_string 함수는 **문자열 2개를 매개변수로 받아와야 하며,** 함수 안에서 그 값을 읽어서 변경해야 하므로 **입출력 매개변수**이다.
--  
+- 
