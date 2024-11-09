@@ -71,7 +71,7 @@ str1=golf, str2=ski
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h> 
-#define SIZE 120
+#define SIZE 120 // if 문의 사이즈에 따라 성공 실패 결정
 int swap_string(char* lhs, char* rhs, int size);
 
 int main(void)
