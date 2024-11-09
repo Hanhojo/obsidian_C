@@ -30,7 +30,7 @@ swap_string(str1, "no good", SIZE) // 실행 에러
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <string.h> // 문자열 처리 라이브러리
-#define SIZE 28
+#define SIZE 28 // 문자열 배열의 크기를 정의, 문자열의 최대 길이 28
 int swap_string(char* lhs, char* rhs, int size);
 
 int main(void)
@@ -49,6 +49,19 @@ int main(void)
 
 int swap_string(char* lhs, char* rhs, int size)
 {
-	int lhs_len = strlen	
+	int lhs_len = strlen(lhs);
+	int rhs_len = strlen(rhs);
+	char temp[SIZE] = "";
+
+	if (lhs_len + 1 > size || rhs_len + 1 > size)
+		return 0; // swap_string 실패
+
+	strcpy(temp, lhs);
+	strcpy(lhs, rhs);
+	strcpy(rhs, temp);
+	return 1; // swap_string 성공
 }
+/* 문자열 2개? ski golf
+str1=ski, str2=golf
+str1=golf, str2=ski
 ```
