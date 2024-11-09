@@ -26,4 +26,29 @@ swap_string(str1, "no good", SIZE) // 실행 에러
 ```
 - **swap_string 함수를 호출하려면 매개변수가 char* 형이므로 문자배열을 인자로 전달해야 한다.**
 
-₩
+```c
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h> // 문자열 처리 라이브러리
+#define SIZE 28
+int swap_string(char* lhs, char* rhs, int size);
+
+int main(void)
+{
+	char str1[SIZE] = "";
+	char str2[SIZE] = "";
+
+	printf("문자열 2개? ");
+	scanf("%s %s", str1, str2);
+
+	printf("str1=%s, str2=%s\n", str1, str2);
+	swap_string(str1, str2, SIZE);
+	printf("str1=%s, str2=%s\n", str1, str2);
+	return 0;
+}
+
+int swap_string(char* lhs, char* rhs, int size)
+{
+	int lhs_len = strlen	
+}
+```
