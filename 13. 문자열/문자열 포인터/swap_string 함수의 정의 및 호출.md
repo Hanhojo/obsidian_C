@@ -65,3 +65,32 @@ int swap_string(char* lhs, char* rhs, int size)
 str1=ski, str2=golf
 str1=golf, str2=ski
 ```
+
+#### 수시 시험 출제 
+```c
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <string.h> 
+#define SIZE 120
+int swap_string(char* lhs, char* rhs, int size);
+
+int main(void)
+{
+	char str1[SIZE] = "";
+	char str2[SIZE] = "";
+	int swap_ok;
+
+	printf("문자열 2개? ");
+	printf("%s %s", str1, str2);
+
+	printf("str1=%s, str2=%s\n", str1, str2)
+	swap_ok = swap_string(str1, str2, SIZE);
+	if(swap_ok) {
+		printf("swap success!\n");
+		printf("str1=%s, str2=%s\n", str1, str2);
+		}
+	else
+		printf("swap failed\n");
+	return 0;
+}
+```
