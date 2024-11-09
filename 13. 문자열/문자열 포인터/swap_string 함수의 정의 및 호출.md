@@ -24,3 +24,6 @@ int swap_string(char* lhs, char* rhs, int size)
 swap_string(str1, str2, SIZE); // swap_string의 인자로 문자 배열만 전달할 수 있다.
 swap_string(str1, "no good", SIZE) // 실행 에러
 ```
+- **swap_string 함수를 호출하려면 매개변수가 char* 형이므로 문자배열을 인자로 전달해야 한다.**
+
+₩
