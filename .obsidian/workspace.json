@@ -50,6 +50,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -192,11 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "802aba09a3ca8cce",
+  "active": "25826b8dc5b87eb9",
   "lastOpenFiles": [
+    "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
     "13. 문자열/문자열 포인터/2. const char*형의 문자열 포인터.md",
     "13. 문자열/문자열 포인터/3. 문자열 사용을 위한 가이드라인.md",
-    "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
     "13. 문자열/표준 C의 문자열 처리 함수/7. 문자열의 입출력.md",
     "13. 문자열/문자열 포인터/문자열 포인터.md",
     "문자열 사용을 위한 가이드라인.md",
