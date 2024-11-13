@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "13. 문자열/표준 C의 문자열 처리 함수/2. 문자열의 복사.md",
+            "file": "13. 문자열/문자열 포인터/swap_string 함수의 정의 및 호출.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
