@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5fbce24c3b58b454",
+        "id": "d12c503b67a52883",
         "type": "tabs",
         "children": [
           {
-            "id": "8903ed54c433f99e",
+            "id": "c477f2f8e30e667d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. 문자열/문자열 포인터/swap_string 함수의 정의 및 호출.md",
+                "file": "13. 문자열/문자배열/1. 문자와 문자열.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "swap_string 함수의 정의 및 호출"
+              "title": "1. 문자와 문자열"
             }
           }
         ]
@@ -148,13 +148,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8903ed54c433f99e",
+  "active": "c477f2f8e30e667d",
   "lastOpenFiles": [
-    "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
     "13. 문자열/표준 C의 문자열 처리 함수/1. 문자열 길이 구하기.md",
+    "13. 문자열/문자열 포인터/swap_string 함수의 정의 및 호출.md",
+    "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
     "13. 문자열/문자열의 배열/2. 문자열 포인터 배열.md",
     "13. 문자열/문자배열/1. 문자와 문자열.md",
-    "13. 문자열/문자열 포인터/swap_string 함수의 정의 및 호출.md",
     "13. 문자열/표준 C의 문자열 처리 함수/표준 C의 문자열 처리 함수.md",
     "13. 문자열/표준 C의 문자열 처리 함수/2. 문자열의 복사.md",
     "13. 문자열/표준 C의 문자열 처리 함수/3. 문자열의 비교.md",
