@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d03f2322531dea4a",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13. 문자열/문자열 포인터/1. char*형의 문자열 포인터.md",
+                "file": "13. 문자열/문자배열/1. 문자와 문자열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1. char*형의 문자열 포인터의 백링크"
+              "title": "1. 문자와 문자열의 백링크"
             }
           },
           {
